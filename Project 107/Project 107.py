@@ -1,5 +1,4 @@
 import pandas as pd
-import plotly.graph_objects as pgo
 import plotly_express as px
 
 df = pd.read_csv('data.csv')
